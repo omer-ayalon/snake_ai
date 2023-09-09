@@ -14,7 +14,7 @@ There are various ways to create a hamiltonian cycle, but one way is to generate
 height. Then walk the maze by keeping to one side of the walls, eventually the algorithm will close a loop, a cycle.
 
 The result of the algorithm:
-![hamiltonian_path_gif.gif](hamiltonian_path_gif.gif)
+![hamiltonian_path_gif.gif](gifs%2Fhamiltonian_path_gif.gif)
 
 ### Snake ###
 
